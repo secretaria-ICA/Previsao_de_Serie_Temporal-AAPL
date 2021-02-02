@@ -1,17 +1,17 @@
-# Previsão de série temporal - AAPL
+# Previsão de Série Temporal - AAPL
 
-#### Aluno: [LUDMILA MULLER DA SILVA](https://github.com/lm0007/projeto_puc)
-#### Orientadora: [Manoela Kohler](https://github.com/manoelakohler) 
-
+#### Aluna: [Ludmila Muller da Silva](https://github.com/lm0007).
+#### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
 
 ---
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
+- [Link para o código](projeto_lud_v0.1_seminfoapi.ipynb).
+
 ---
 
 ### Resumo
-
 
 O projeto, desenvolvido em Python, apresenta uma previsão de série temporal dos preços de abertura da ação da Apple e busca relacionar os resultados com uma análise de sentimentos pelo Twitter. 
 A rede neural utilizada foi a Long Short Term Memory (LSTM), um tipo de rede neural recorrente (RNN) e a série histórica utilizada contém os preços de abertura diários da APPL, desde 30/12/2013 até 15/01/2021.
